@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+bin/
+obj/
+
+# NuGet
+packages/
+
+# Temporary files
+*.log
+
+# User-specific settings
+*.cache
